@@ -1,14 +1,14 @@
 ## Daniel Min Project 3
 
-CPSc 458 - 1
-Professor Fahy
+CPSC 458 - 1__
+Professor Fahy__
 
 ## Uses
 
-made with next.js
-I used Spotify api to create my top 5 favorite aritist and top 5 favorite track
-I can change in between using state variable
-You can get to the spotify website by clicking "check this artist out"
-my site is deployed in
+made with next.js__
+I used Spotify api to create my top 5 favorite aritist and top 5 favorite track__
+I can change in between using state variable__
+You can get to the spotify website by clicking "check this artist out"__
 
-### [<website link>](https://vercel.com/yumin04s-projects/cpsc-458-project3)
+my site is deployed in
+https://cpsc-458-project3-delta.vercel.app/
