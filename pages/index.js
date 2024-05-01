@@ -36,7 +36,7 @@ export default function Home() {
             <h2>My Favorite Artists</h2>
 
             {artists.map((artist, index) => (
-              <div key={index}>
+              <div key={artist.url}>
                 <main>
                   <p>{artist.name}</p>
                   <p>{numberWithCommas(artist.followers)} Followers </p>
@@ -53,7 +53,7 @@ export default function Home() {
             <h2>My Favorite Tracks</h2>
 
             {tracks.map((track, index) => (
-              <div key={index}>
+              <div key={track.url}>
                 <main>
                   <p>{track.title}</p>
                   <p>by {track.artist}</p>
