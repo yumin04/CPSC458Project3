@@ -1,7 +1,7 @@
 ## Daniel Min Project 3
 
-CPSC 458 - 1__
-Professor Fahy__
+CPSC 458 - 1 <br />
+Professor Fahy<br />
 
 ## Uses
 
